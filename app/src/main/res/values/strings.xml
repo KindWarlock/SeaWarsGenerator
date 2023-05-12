@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SeaWarsGenerator</string>
+    <string name="btnGen">Generate</string>
+</resources>
